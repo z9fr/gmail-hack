@@ -3,33 +3,15 @@
 This is a pure bash script to perform dictionary attack to gmail accounts.
 
 
-How to Run the Script:
+How to Run the Script ? 
 
     $./hack-gmail.sh --help
-             
-             or
-             
-    $./hack-gmail.sh --options
-    
+         
 
+To perform dictionary attack ?
 
-How to Run the Script ?
-
-  You can get the options using : 
-    $ ./hack-gmail.sh --help
-    or
-    $ ./hack-gmail.sh --options
- 
- To perform dictionary attack 
-    $ ./hack-gmail.sh --gmail
-
-
-How to Run the Script:
-
-    $ python3 main.py
-
-
-
+    $./hack-gmail.sh --gmail
+        
 
 heres a screenshot of the Script:
 
