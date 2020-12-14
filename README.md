@@ -3,7 +3,8 @@
 This is a gmail dictionary attack script
 written using pure bash. 
 
-- Installation
+
+# Installation
 
     $ git clone https://github.com/d4az/gmail-hack.git
 
@@ -18,8 +19,7 @@ written using pure bash.
     $./hack-gmail.sh --gmail
         
 
-heres a screenshot of the Script:
+- heres a screenshot of the Script:
 
 ![screenshot](https://github.com/d4az/gmail-hack/blob/main/demo.png)
 
-$ git clone https://github.com/d4az/gmail-hack.git
