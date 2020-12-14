@@ -14,6 +14,12 @@ How to Run the Script ?
     $ ./hack-gmail.sh --gmail
 
 
+How to Run the Script:
+
+    $ python3 main.py
+
+
+
 
 heres a screenshot of the Script:
 
