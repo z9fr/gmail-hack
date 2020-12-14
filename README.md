@@ -3,6 +3,14 @@
 This is a pure bash script to perform dictionary attack to gmail accounts.
 
 
+How to Run the Script:
+
+    $./hack-gmail.sh --help<br>
+    or
+    $./hack-gmail.sh --options
+    
+
+
 How to Run the Script ?
 
   You can get the options using : 
