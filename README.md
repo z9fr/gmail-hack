@@ -15,4 +15,4 @@ To perform dictionary attack ?
 
 heres a screenshot of the Script:
 
-![screenshot](https://github.com/d4az/gmail-hack/demo.png)
+![screenshot](https://github.com/d4az/gmail-hack/blob/main/demo.png)
