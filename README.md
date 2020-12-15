@@ -19,7 +19,7 @@ written using pure bash.
     $./hack-gmail.sh --gmail
         
 
-- heres a screenshot of the Script:
+- Here is a screenshot of the script :
 
 ![screenshot](https://github.com/d4az/gmail-hack/blob/main/demo.png)
 
