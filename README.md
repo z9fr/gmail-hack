@@ -11,6 +11,7 @@ written using pure bash.
 
 # How to Run the Script ? 
 
+    $ chmod +x hack-gmail.sh     
     $./hack-gmail.sh --help
          
 
