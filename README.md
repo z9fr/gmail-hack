@@ -22,5 +22,5 @@ written using pure bash.
 
 - Here is a screenshot of the script :
 
-![screenshot](https://github.com/d4az/gmail-hack/blob/main/demo.png)
+![ss](https://github.com/d4az/gmail-hack/blob/main/demo.png)
 
