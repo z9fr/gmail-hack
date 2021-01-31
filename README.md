@@ -4,7 +4,7 @@ This is a gmail dictionary attack script
 written using pure bash. 
 
 
-# Installation
+# Installation.
 
     $ git clone https://github.com/d4az/gmail-hack.git
 
